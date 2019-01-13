@@ -1,3 +1,4 @@
+
 simple text file for testing
 
 added one more line
@@ -8,3 +9,4 @@ branch test 1 changes
 
 brach test3 changes
 
+master added on more line at 6:51 pm
